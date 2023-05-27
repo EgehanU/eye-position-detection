@@ -11,7 +11,7 @@ augmentation.py --> To augment the data, for now it creates 20 instances of each
 
 image_preprocessing.py --> To pre-process the data, extract the determined 3 features.
 
-model_training.py --> To train and evaluate the model. Model and the scalar is also saved.
+model_training.py --> To train and evaluate the model. Model and the scalar are also saved.
 
 main.py --> To use the model on a desired image
 
